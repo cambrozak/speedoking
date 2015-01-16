@@ -1,0 +1,70 @@
+#templates {
+  display: none;
+  visibility: hidden;
+}
+
+#homePage {
+  text-align: center;
+}
+
+#homePage h1 {
+  font-family: 'Alex Brush', cursive;
+  font-size: 7em;
+  font-weight: 300;
+  padding: 0;
+  margin-bottom: 80px;
+  margin-top: 0;
+}
+
+#homePage h1.crown {
+  font-size: 8em;
+  margin-bottom: 0;
+}
+
+#homePage h4,
+.specializing {
+  color: gray;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 100;
+}
+
+#menuLinkHome {
+  cursor: pointer;
+}
+
+.samples {
+  font-size: 12px;
+}
+
+#homePage l-box a h6 {
+  text-decoration: none;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.l-box {
+  text-align: center;
+}
+
+.l-box .pure-img {
+  display: inline;
+}
+
+.l-box h4,
+.l-box h6 {
+  text-align: center;
+}
+
+.l-box h6 {
+  font-face: arial, helvetica;
+  font-size: x-small;
+  font-weight: normal;
+  color: gray;
+  margin: 0;
+  padding: 0;
+}
