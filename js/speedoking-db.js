@@ -4,8 +4,8 @@ var SpeedoKingDB = (function () {
       "speedos": [
         { "image": "images/vw_speedo_002.JPG", "name": "Bug 55-60" },
         { "image": "images/vw_speedo_003.JPG", "name": "Bug 61-62" },
-        { "image": "images/vw_speedo_004.JPG", "name": "Bug 64-67" },
-        { "image": "images/vw_speedo_005.JPG", "name": "Bug 64-67 Km" },
+        { "image": "images/vw_speedo_004.JPG", "name": "Bug 63-67" },
+        { "image": "images/vw_speedo_005.JPG", "name": "Bug 63-67 Km" },
         { "image": "images/vw_speedo_006.JPG", "name": "Bug 68" },
         { "image": "images/vw_speedo_007.JPG", "name": "Bug 69-70" },
         { "image": "images/vw_speedo_008.JPG", "name": "Bug 71-72" },
@@ -21,15 +21,13 @@ var SpeedoKingDB = (function () {
         { "image": "images/vw_speedo_019.JPG", "name": "Karman Ghia 60" }
       ],
       "odometers": [
-        { "image": "images/vw_odometer_020.JPG", "name": "vw_odometer_020.JPG" },
-        { "image": "images/vw_odometer_021.JPG", "name": "vw_odometer_021.JPG" },
-        { "image": "images/vw_odometer_022.JPG", "name": "vw_odometer_022.JPG" },
-        { "image": "images/vw_odometer_023.JPG", "name": "vw_odometer_023.JPG" },
-        { "image": "images/vw_odometer_024.JPG", "name": "vw_odometer_024.JPG" },
-        { "image": "images/vw_odometer_025.JPG", "name": "vw_odometer_025.JPG" },
-        { "image": "images/vw_odometer_026.JPG", "name": "vw_odometer_026.JPG" },
-        { "image": "images/vw_odometer_027.JPG", "name": "vw_odometer_027.JPG" },
-        { "image": "images/vw_odometer_028.JPG", "name": "vw_odometer_028.JPG" }
+        { "image": "images/vw_odometer_020.JPG", "name": "BUG 64-67" },
+        { "image": "images/vw_odometer_021.JPG", "name": "BUS 55-60" },
+        { "image": "images/vw_odometer_023.JPG", "name": "BUS 64-67 Red Hawaiian" },
+        { "image": "images/vw_odometer_024.JPG", "name": "BUS 63-67" },
+        { "image": "images/vw_odometer_025.JPG", "name": "TYPE 3" },
+        { "image": "images/vw_odometer_027.JPG", "name": "BUS/BUG TRIP KNOB" },
+        { "image": "images/vw_odometer_028.JPG", "name": "BUS/BUG TRIP KNOB" }
       ]
     },
     "vespa": {
